@@ -1,1 +1,2 @@
-strp C
+step C
+step Q
